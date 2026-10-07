@@ -67,7 +67,7 @@ The main objective of this project is to:
 
 ## 📷 Dashboard Preview
 **D2C_Brand_Sales excel**
-!D2C_Brand_Sales.xlsx
+[D2C_Brand_Sales.xlsx]()
 
 **CHARTS AND SLICER AND INSIGHTS**
 <img width="1312" height="342" alt="charts and filter" src="https://github.com/user-attachments/assets/4ca7354b-a750-4c1b-9792-9517842d8aa0" />
