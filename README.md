@@ -66,8 +66,9 @@ The main objective of this project is to:
 ---
 
 ## 📷 Dashboard Preview
+**D2C_Brand_Sales excel**
 
-
+**CHARTS AND SLICER AND INSIGHTS**
 
 ---
 
